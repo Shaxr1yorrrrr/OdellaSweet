@@ -2,7 +2,7 @@ from telethon import TelegramClient, events, Button
 
 API_ID = 1234567
 API_HASH = "gjfhytrey54er5rtfytjg"
-BOT_TOKEN = ""
+BOT_TOKEN = "7741982658:AAGD-o2oXnDnJLZtXfUjF5jZWuhLvVaBUso"
 
 # In‑memory storage
 customers = {}
